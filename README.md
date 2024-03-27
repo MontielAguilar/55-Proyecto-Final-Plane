@@ -18,12 +18,6 @@ El proyecto consta de los siguientes elementos principales:
 
 4. **Evaluación del Rendimiento**: Se evalúan los modelos utilizando métricas de rendimiento como precisión, matriz de confusión y validación cruzada para determinar su eficacia en la predicción de la satisfacción del cliente.
 
-## Estructura del Repositorio
-- **train.csv**: Conjunto de datos utilizado para el entrenamiento y evaluación de modelos.
-- **README.md**: Documento actual que proporciona una descripción general del proyecto.
-- **Jupyter Notebooks**: Archivos Jupyter Notebook que contienen el código utilizado para el análisis de datos, entrenamiento de modelos y evaluación de rendimiento.
-- **Imágenes**: Carpeta que contiene imágenes utilizadas en el análisis exploratorio de datos y visualizaciones de resultados.
-
 ## Requisitos de Instalación
 - Python 3
 - Jupyter Notebook

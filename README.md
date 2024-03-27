@@ -1,5 +1,7 @@
 # Proyecto de Análisis y Predicción de Satisfacción del Cliente en una Aerolínea
 
+![Python Logo](https://github.com/MontielAguilar/55-Proyecto-Final-Plane/blob/main/python-logo.png)
+
 ## Descripción
 Este proyecto tiene como objetivo analizar y predecir la satisfacción del cliente en una aerolínea utilizando técnicas de aprendizaje automático. Se utilizan diversas bibliotecas de Python para explorar y limpiar los datos, realizar análisis exploratorio, entrenar modelos de machine learning y evaluar su rendimiento.
 
